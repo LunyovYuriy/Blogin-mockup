@@ -1,2 +1,2 @@
 # Blogin-mockup
-[Demo](https://shikigeru.github.io/Blogin-mockup/)
+[Demo](https://lunyovyuriy.github.io/Blogin-mockup/)
